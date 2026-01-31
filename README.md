@@ -2,4 +2,9 @@
 Demo lecture github
 
 1. Demo lecture for students of IT Careeer
-2. Here are only examples
+- using Git
+	- new point
+	- second point
+	- another point
+- using GitHub
+3. Here are only examples
