@@ -8,5 +8,8 @@ internal class Program
     {
         Console.WriteLine("Hello, GitHub!");
         Console.WriteLine("This is GitHub demo...");
+
+        int x = int.Parse(Console.ReadLine());
+        Console.WriteLine($"You entered: {x}");
     }
 }
