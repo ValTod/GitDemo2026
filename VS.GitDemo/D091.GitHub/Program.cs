@@ -1,10 +1,12 @@
-﻿namespace D091.GitHub
+﻿namespace D091.GitHub;
+/// <summary>
+/// Provides the entry point for the application.
+/// </summary>
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Console.WriteLine("Hello, GitHub!");
+        Console.WriteLine("This is GitHub demo...");
     }
 }
